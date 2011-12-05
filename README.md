@@ -1,8 +1,14 @@
 Functional Lens (on Mathematics and Computation)
 ================================================
 
-This repository contains the articles from the blog,
-which are mostly literate Haskell + markdown.
+These are articles from the blog at http://kennknowles.com/blog which
+demonstrate functional programming ideas, libraries, or both.
+
+The articles are mostly literate Haskell + markdown. The code is licensed under
+the Apache 2.0 License so you should be able to use it in whatever way you
+like. I ask that the actual text of the article not be reproduced in an
+expository context except to quote it or cite it. I'm sure it isn't
+particularly valuable to anyone except for entertainment anyhow. Be nice :-)
 
 Copyright & License
 -------------------
