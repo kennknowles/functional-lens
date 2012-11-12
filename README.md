@@ -12,7 +12,7 @@ particularly valuable to anyone except for entertainment anyhow. Be nice :-)
 
 Copyright & License
 -------------------
-Copyright 2007-2011 Kenneth Knowles
+Copyright 2007-2012 Kenneth Knowles
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use
 this file except in compliance with the License. You may obtain a copy of the
